@@ -1,0 +1,13 @@
+body {
+	padding: 2rem;
+	text-align: center;
+}
+
+ul {
+	display: inline-block;
+}
+
+ol {
+	display: inline-block;
+}
+
